@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='nestedContainer 2'/>
+        <page name='nestedContainer 1'/>
+        <page name='nestedContainer 3'/>
+    </pages>
+</playground>
